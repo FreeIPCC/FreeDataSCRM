@@ -49,5 +49,5 @@
 
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
-# FreeDataSCRM关于源码与付费
+# FreeDataSCRM：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
