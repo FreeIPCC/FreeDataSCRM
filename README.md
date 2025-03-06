@@ -42,13 +42,12 @@
 # 2025.03.06最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:David_Li_Haiya
+- 官方WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-![image](https://github.com/user-attachments/assets/a0a2d19e-3256-47a4-b3f7-c385a18c2841)
-
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/70b6c5f8-5352-4856-9681-baab090314c8)
 
 # FreeDataSCRM：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！
